@@ -1,5 +1,3 @@
-import { motion } from "framer-motion";
-
 export default function Timeline({ history }) {
   return (
     <div className="timeline-container">
